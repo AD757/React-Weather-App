@@ -7,7 +7,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 import "weather-icons/css/weather-icons.css";
 
-const Api_Key = "076673b20bmsh7e8aa8413795fecp1f70aajsn3d099e2b9ef9";
+const Api_Key = "d5e34fd95d294defd3c4ebd45e198cf5";
 
 class App extends React.Component {
   constructor() {
