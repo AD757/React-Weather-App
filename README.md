@@ -7,4 +7,4 @@ Simple application developed with React using Open Weather API that searches for
 
 
 ## New version 2
-- [Link] (https://github.com/AD757/Weather-App-V2)
+- [Link](https://github.com/AD757/Weather-App-V2)
